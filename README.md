@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aavik743" alt="aavik743" /></a> </p>
 
-- 🌱 I’m currently learning **Web development with Flask and MongoDB**
+- 🌱 I’m currently working for MYn-India's first super app as a **python developer**
 
 - 📫 You can reach me at **aavikhore@gmail.com**
 
